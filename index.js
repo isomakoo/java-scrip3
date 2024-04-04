@@ -81,3 +81,20 @@
 //     console.log(a," ",a, " ", a,)
 // }
 // else console.log(a+10)
+// 15-misol
+// let a=Number(prompt("a sonni kiriting"))
+// let b=Number(prompt("b sonni kiriting"))
+// let c=prompt("qaysi amalni bajarmoqchisz")
+// if (c==='+'){
+//     console.log(a+b)
+// }
+// else if (c==='-'){
+//     console.log(a-b)
+// }
+// else if (c==='*'){
+//     console.log(a*b)
+// }
+// else if (c==='/'){
+//     console.log(a/b)
+// }
+// else console.log("xatolik")
